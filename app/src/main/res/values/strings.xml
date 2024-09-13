@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Prueba</string>
+    <string name="ingresar_peso">Ingresa tu peso en kg</string>
+    <string name="ingresar_altura">Ingresa tu altura en metros</string>
+    <string name="calcular_imc">Calcular IMC</string>
+    <string name="resultado_imc">Resultado</string>
+    <string name="peso_ideal">Peso ideal</string>
+</resources>
